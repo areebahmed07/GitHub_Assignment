@@ -8,7 +8,7 @@ Program/Semester: BSAI 1sh Semester
 
 Career Goals:
 <li>
- <li> <or>
+  <or>
 Become an AI Engineer and develop intelligent systems.</or>
   </li>
    <br>
