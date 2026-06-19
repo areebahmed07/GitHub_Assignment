@@ -8,11 +8,14 @@ Program/Semester: BSAI 1sh Semester
 
 Career Goals:
 <li>
-  <or>
+ <li> <or>
 Become an AI Engineer and develop intelligent systems.</or>
-  <br>
-  <or>Specialize in Machine Learning and Deep Learning technologies.</or>
-<br>
+  </li>
+   <br>
+  <li><or>Specialize in Machine Learning and Deep Learning technologies.</or>
+*</li>
+    <br>
+<li>
 <or>Build AI solutions for healthcare, education, and business sectors</or>
-    
-</li>
+ </li>   
+
