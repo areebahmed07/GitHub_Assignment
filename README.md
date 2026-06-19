@@ -10,8 +10,9 @@ Career Goals:
 <li>
   <or>
 Become an AI Engineer and develop intelligent systems.</or>
+  <br>
   <or>Specialize in Machine Learning and Deep Learning technologies.</or>
-
+<br>
 <or>Build AI solutions for healthcare, education, and business sectors</or>
     
 </li>
